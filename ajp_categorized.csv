@@ -1,1 +1,97 @@
-date,anatomical diagram,apparatus,brain section,building,chart,hands,histology,historical,history,other,other diagram,patient,patient-produced artifact,physician,specimen,x-ray01/01/10,8,2,32,0,149,8,52,4,1,0,4,0,5,0,3,001/01/20,3,,32,0,183,0,160,3,2,1,1,1,0,0,19,2601/01/30,22,15,47,14,379,0,123,9,8,3,1,31,2,2,0,8501/01/40,9,7,28,3,435,1,101,3,3,15,0,31,3,4,0,1901/01/50,8,11,21,0,297,0,17,2,0,14,2,17,0,6,4,2301/01/60,5,15,4,7,284,2,9,10,0,0,9,12,2,14,0,7
+date,key,value
+01/01/1910,anatomical diagram,8
+01/01/1910,apparatus,2
+01/01/1910,brain section,32
+01/01/1910,building,0
+01/01/1910,chart,149
+01/01/1910,hands,8
+01/01/1910,histology,52
+01/01/1910,historical,4
+01/01/1910,history,1
+01/01/1910,other,0
+01/01/1910,other diagram,4
+01/01/1910,patient,0
+01/01/1910,patient-produced artifact,5
+01/01/1910,physician,0
+01/01/1910,specimen,3
+01/01/1910,x-ray,0
+01/01/1920,anatomical diagram,3
+01/01/1920,apparatus,0
+01/01/1920,brain section,32
+01/01/1920,building,0
+01/01/1920,chart,183
+01/01/1920,hands,0
+01/01/1920,histology,160
+01/01/1920,historical,3
+01/01/1920,history,2
+01/01/1920,other,1
+01/01/1920,other diagram,1
+01/01/1920,patient,1
+01/01/1920,patient-produced artifact,0
+01/01/1920,physician,0
+01/01/1920,specimen,19
+01/01/1920,x-ray,26
+01/01/1930,anatomical diagram,22
+01/01/1930,apparatus,15
+01/01/1930,brain section,47
+01/01/1930,building,14
+01/01/1930,chart,379
+01/01/1930,hands,0
+01/01/1930,histology,123
+01/01/1930,historical,9
+01/01/1930,history,8
+01/01/1930,other,3
+01/01/1930,other diagram,1
+01/01/1930,patient,31
+01/01/1930,patient-produced artifact,2
+01/01/1930,physician,2
+01/01/1930,specimen,0
+01/01/1930,x-ray,85
+01/01/1940,anatomical diagram,9
+01/01/1940,apparatus,7
+01/01/1940,brain section,28
+01/01/1940,building,3
+01/01/1940,chart,435
+01/01/1940,hands,1
+01/01/1940,histology,101
+01/01/1940,historical,3
+01/01/1940,history,3
+01/01/1940,other,15
+01/01/1940,other diagram,0
+01/01/1940,patient,31
+01/01/1940,patient-produced artifact,3
+01/01/1940,physician,4
+01/01/1940,specimen,0
+01/01/1940,x-ray,19
+01/01/1950,anatomical diagram,8
+01/01/1950,apparatus,11
+01/01/1950,brain section,21
+01/01/1950,building,0
+01/01/1950,chart,297
+01/01/1950,hands,0
+01/01/1950,histology,17
+01/01/1950,historical,2
+01/01/1950,history,0
+01/01/1950,other,14
+01/01/1950,other diagram,2
+01/01/1950,patient,17
+01/01/1950,patient-produced artifact,0
+01/01/1950,physician,6
+01/01/1950,specimen,4
+01/01/1950,x-ray,23
+01/01/1960,anatomical diagram,5
+01/01/1960,apparatus,15
+01/01/1960,brain section,4
+01/01/1960,building,7
+01/01/1960,chart,284
+01/01/1960,hands,2
+01/01/1960,histology,9
+01/01/1960,historical,10
+01/01/1960,history,0
+01/01/1960,other,0
+01/01/1960,other diagram,9
+01/01/1960,patient,12
+01/01/1960,patient-produced artifact,2
+01/01/1960,physician,14
+01/01/1960,specimen,0
+01/01/1960,x-ray,7
