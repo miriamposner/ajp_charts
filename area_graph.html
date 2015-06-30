@@ -21,8 +21,8 @@ body {
 var format = d3.time.format("%Y");
 
 var margin = {top: 20, right: 30, bottom: 30, left: 40},
-    width = 960 - margin.left - margin.right,
-    height = 500 - margin.top - margin.bottom;
+    width = 400 - margin.left - margin.right,
+    height = 200 - margin.top - margin.bottom;
 
 var x = d3.time.scale()
     .range([0, width]);
@@ -35,7 +35,7 @@ var z = d3.scale.category20c();
 var xAxis = d3.svg.axis()
     .scale(x)
     .orient("bottom")
-    .ticks(d3.time.days);
+    .ticks(d3.time.years);
 
 var yAxis = d3.svg.axis()
     .scale(y)
