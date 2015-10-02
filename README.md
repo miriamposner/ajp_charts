@@ -18,3 +18,5 @@ To gather this data, I obtained PDFs of every issue of *The American Journal of 
 * physician
 * specimen
 * x-ray
+
+Because charts were the most common images published in the *AJP*, I wanted to see what the data would look like if I excluded them. So ajp_categorized_nochart.csv is that data.
